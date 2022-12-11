@@ -1,4 +1,4 @@
-module github.com/radepopovic/xk6-output-nano
+module github.com/nano-interactive/PerformanceTest-xk6PrometheusWrite
 
 go 1.19
 
