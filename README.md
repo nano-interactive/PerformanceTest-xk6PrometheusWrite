@@ -17,7 +17,7 @@ go install go.k6.io/xk6/cmd/xk6@v0.7.0
 
 To build k6 binary with the Prometheus remote write output extension use:
 ```
-xk6 build --with github.com/radepopovic/xk6-output-nano@latest 
+xk6 build --with github.com/nano-interactive/PerformanceTest-xk6PrometheusWrite@latest 
 ```
 
 Then run new k6 binary with:

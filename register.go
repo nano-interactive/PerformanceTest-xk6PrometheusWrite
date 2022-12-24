@@ -1,7 +1,7 @@
 package remotewrite
 
 import (
-	"github.com/radepopovic/xk6-output-nano/pkg/remotewrite"
+	"github.com/nano-interactive/PerformanceTest-xk6PrometheusWrite/pkg/remotewrite"
 	"go.k6.io/k6/output"
 )
 
